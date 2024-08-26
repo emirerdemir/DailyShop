@@ -13,7 +13,7 @@ Bu proje, Django ile oluşturulmuş bir web sitesine özelleştirilmiş bir tema
 1. **Depoyu klonlayın:**
 
     ```bash
-    git clone https://github.com/kullanici_adiniz/django-web-sitesi-temasi.git
+    [git clone https://github.com/kullanici_adiniz/django-web-sitesi-temasi.git](https://github.com/emirerdemir/DailyShop)
     ```
 
 2. **Gerekli paketleri yükleyin:**
